@@ -1,0 +1,5 @@
+# Sam's Low-Fidelity Prototype
+*Signifiers* - While thinking of metaphors, I used signifiers in most buttons. For instance, the search bar is a magnifying glass, referencing research or detective work. Same goes for the social icons.
+*Culture Design Mapping* - In the most recent lecture, we talked about how certain cultures do things a certain way, and a known example would be reading styles in North America. In most pages, I set the layout favoring the notion of reading top/left to bottom/right.
+*Semantic/Logical Constraint* - When creating the homepage layout, I included the sidebar for users who want to browse ALL categories in alphabetical/numerical order. With the sidebar icon (looks like lines vertically stacked), I hope to draw viewers to the side menu to the list of SDGs.
+*Affordances* - In the homepage SDG discoverability channel, I reference affordances in terms of how to navigate through the immersive SDG flipbook. With helpful signifiers (arrows in each direction), customers should be able to look through SDGs and interact with animated art with a click of a button.
